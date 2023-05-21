@@ -12,14 +12,23 @@ Checklist - Completed Tasks Today:
 - Discussed data sources for each sport.
 - Collaboratively created a project roadmap for the next two weeks.
 
-Checklist - Incomplete Tasks (Outstanding) for this Sprint:
-- Set up development environment and install necessary tools.
-- Gather PGA Tour/Major Golf data.
-- Gather NCAA Football data.
-- Familiarize with chosen data sources for each sport.
-- Set up a project repository with appropriate settings and configurations.
-- Create a project flow chart in Mermaid format.
+Accomplishments for this Sprint:
 
-These tasks are still outstanding within this sprint, and you can focus on completing them in the upcoming days as per the planned roadmap.
+- Set up development environment and installed necessary tools.
+- Gathered PGA Tour data and integrated it into the project.
+- Familiarized with chosen data sources for each sport.
+- Created a project repository with appropriate settings and configurations.
+- Designed and implemented the database schema for storing the sports data.
+- Fetched and loaded data from DataGolf API and the PGA Tour website into the database.
+- Validated the Players table for data quality and performed necessary data preprocessing steps.
+- Implemented basic data transformations and calculated basic statistics on the preprocessed data.
+- Developed unit tests for data loading, preprocessing, and basic transformations.
+- Implemented the apply_machine_learning() method and its corresponding test.
+- Developed unit tests for the apply_machine_learning() method.
 
-Keep up the great work and continue making progress towards becoming the ultimate sports data guru!
+Tasks to be completed:
+
+- Gather NCAA Football data: This task is pending and can be tackled in the upcoming days.
+- Create a project flow chart in Mermaid format: This task is still outstanding and can be completed to provide a visual representation of the project flow.
+
+Congratulations on the progress made so far! Keep up the momentum and continue working on the remaining tasks.
